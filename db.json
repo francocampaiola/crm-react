@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Franco Campaiola",
+      "empresa": "Novocap HAY PAPA",
+      "email": "francocampaiola@hotmail.com",
+      "telefono": "1234",
+      "notas": "12345168",
+      "id": 1
+    },
+    {
+      "nombre": "Pablo Skrzypek",
+      "empresa": "Novocap",
+      "email": "pablo.skrzypek@novocap.com",
+      "telefono": "1136246689",
+      "notas": "",
+      "id": 2
+    }
+  ]
+}
